@@ -1,0 +1,32 @@
+.team {
+  background-color: #f4f4fd;
+  list-style-type: none;
+}
+.team-style {
+  background-color: white;
+  list-style-type: none;
+}
+.team-style > p {
+  text-align: center;
+  color: #434455;
+  font-weight: 400;
+  line-height: 1.5;
+  font-size: 16px;
+  letter-spacing: 0.02em;
+}
+.team-style > h3 {
+  text-align: center;
+  color: #2e2f42;
+  font-weight: 500;
+  line-height: 1.2;
+  font-size: 20px;
+  letter-spacing: 0.02em;
+}
+.team > h2 {
+    text-align: center;
+    color: #2E2F42;
+    font-weight: 700;
+    font-size: 36px;
+    letter-spacing: 0.02em;
+    line-height: 1.11;
+  }
