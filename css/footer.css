@@ -1,5 +1,8 @@
 .footer {
   background-color: #2e2f42;
+  padding-top: 100px;
+  padding-bottom: 100px;
+
 }
 .footer-paragraf{
   color: #f4f4fd;
@@ -7,6 +10,8 @@
   line-height: 1.5;
   letter-spacing: 0.02em;
   font-size: 16px;
+ max-width: 264px;
+
 }
 .white {
   color: #f4f4fd;
@@ -25,5 +30,12 @@
   text-transform: uppercase;
   line-height: 1.33;
   font-size: 18px;
+}
+.container-footer {
+  padding-right: 15px;
+  padding-left: 15px;
+  gap: 16px;
+  width: 1158px;
+  max-width: 1158px;
 }
 

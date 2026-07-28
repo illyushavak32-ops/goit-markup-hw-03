@@ -1,5 +1,8 @@
 .hero {
   background-color: #2e2f42;
+  padding-top: 188px;
+  padding-bottom: 188px;
+  height: 600px;
 }
 .solutions {
   text-align: center;
@@ -17,11 +20,23 @@
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.04em;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  padding-left: 32px;
+  padding-right: 32px;
+  border-radius: 4px;
 }
 .button:hover {
   background-color: #404bbf;
 }
 .button:focus {
   background-color: #404bbf;
+}
+.container-hero {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 48px;
 }
 
